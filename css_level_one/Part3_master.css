@@ -1,0 +1,40 @@
+/* div{
+    color: red;
+} */
+
+.firstDiv{
+    color: blue;
+}
+
+.secondDiv{
+    color: red;
+}
+
+#singleout{
+    color: green;
+    text-decoration: line-through;
+}
+/* 
+*{
+    color: black; color every tag black it will  override every tag except id's.
+} */
+
+/* Adjacent sibling : means elements which are next to each-other . ex. i want to select all ul ordered list items next to heading3*/
+
+h3 + ul{
+    border: 4px dotted purple;
+
+}
+
+/* descendents selectors. Ex, All anchor tag inside the list*/
+
+li a{
+    color:coral;
+}
+
+/* attributes styling */
+
+li a[href="https://www.facebook.com/"]{
+    color:chocolate;
+    border: 5px solid orange;
+}

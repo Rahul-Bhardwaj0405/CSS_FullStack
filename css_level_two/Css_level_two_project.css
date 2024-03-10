@@ -1,0 +1,47 @@
+h1{
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.tCenter{
+    margin: auto;
+}
+
+
+td{
+   height: 200px;
+   padding: 100px;
+   border: 6px solid white;
+}
+
+#firstC{
+    background-color: #023e8a;
+   
+}
+
+
+#secondC{
+    background-color: #669bbc;
+    
+}
+
+
+#thirdC{
+    background-color: #caf0f8;
+   
+}
+
+
+#fourthC{
+    background-color: #5ef486;
+    
+}
+
+
+#fifthC{
+    background-color: #df2935;
+    
+}

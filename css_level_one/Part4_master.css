@@ -1,0 +1,13 @@
+/* Specificity defines the hierarchy of Css styling. */
+
+li{
+    color: red;
+}
+
+.topitems{
+    color: blue;
+}
+
+#two{
+    border: 3px solid black;
+}

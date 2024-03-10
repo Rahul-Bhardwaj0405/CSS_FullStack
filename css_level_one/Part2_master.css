@@ -1,0 +1,22 @@
+body{
+    background: url(https://media.cntraveler.com/photos/61eae2a9fe18edcbd885cb01/1:1/w_3031,h_3031,c_limit/Seychelles_GettyImages-1169388113.jpg);
+    background-repeat: no-repeat;
+}
+
+div{
+    background: blue;     /* For basic color(means when you write color name) you can say "backgroun" and "background-color" both.  */
+    border-color: orange;
+    border-width: 4px; /*Define your own pixel correct way.  */
+    border-style: double;  
+}
+
+/* If you want to see boder the, you have to mention boder-color, border-width and border-style */
+
+p{
+    color: yellow;
+}
+
+span{
+    background: red;
+    color: black;
+}

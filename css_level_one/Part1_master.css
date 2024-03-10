@@ -1,0 +1,21 @@
+/* selected tag{
+    property: value;
+} */
+
+h1{
+    color: red;
+}
+
+li{
+    color: rgb(100, 209, 27);
+}
+
+p{
+    color: #ed32e7;
+}
+
+h4{
+    color:rgba(100, 209, 27, 0) 
+}
+/* rgb and rgba : the diff. between both is that rgba has alpha parameter and its value lies between 0 to  1 . 0 stands for fully transparent 
+and 1 stands for fully opaque. overall, alpha tells how dark or transparent this color is.  */

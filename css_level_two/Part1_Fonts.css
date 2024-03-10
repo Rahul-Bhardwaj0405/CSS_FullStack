@@ -1,0 +1,28 @@
+h1{
+    font-family: "Arial";
+}
+
+p{
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+/* 
+body{
+    font-size: 20px;
+} */
+/* 
+#two{
+    font-size: 1.0em;
+}
+
+/* em values is the dynamic way of giving size. 1em = 16px by default. means 2px = 32px. If yoy have two similar elemrnt and wants to highlight one then, use em there.*/
+/* 
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+} */ 
